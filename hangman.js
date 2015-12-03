@@ -106,9 +106,9 @@ function guess() {
        return true;
     });   
     
-    // TODO: Rivets isn't updating the bindings when the value is changed; only when 
-    // a new value is added. Need to fix that. Note that this hack doesn't break anything
-    // but also doesn't make any sense.
+    // HACK: Rivets isn't updating the bindings when the value is changed; only when 
+    // a new value is added. Unfortunately this is expected behavior :(
+    //    https://github.com/mikeric/rivets/issues/520
     game.showing.push(true);
 
     // Victory and failure conditions.
