@@ -1,6 +1,6 @@
 # Evil Hangman - Free Crash Course on Ruby
 Based on Keith Schwarz's [Nifty Assignment](http://nifty.stanford.edu/2011/schwarz-evil-hangman/).
-Shamelessly converted to ruby fomr [Evil-Hangman]()
+Shamelessly converted to ruby from [Evil-Hangman](https://github.com/anyweez/evil-hangman)
 
 ## Overview
 Our Evil Hangman crash course provides an intro to Ruby by building a humorous variant of the classic Hangman game. The course will give participants an intro to programming and the core features of the Ruby programming language.
